@@ -10,7 +10,7 @@
 ## Laravel column sorting
 
 
-## column-sortable Package
+## Installation
 
 composer require kyslik/column-sortable
 
